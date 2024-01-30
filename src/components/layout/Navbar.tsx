@@ -27,7 +27,7 @@ function Navbar() {
         </article>
         {/* Button Link and DarkMode */}
         <article className="flex flex-row items-center justify-center gap-2">
-          <Link href={"https://github.com/DubstepQBA/test"}>
+          <Link href={"https://github.com/DubstepQBA/Meld"}>
             <Button variant="outline" size="icon">
               <Github />
             </Button>
